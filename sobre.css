@@ -1,43 +1,118 @@
-body {
-        font-family: "Helvetica", "Lucida Grande", sans-serif;
+/* Estilos para a seção "descricao-empresa" */
+.descricao-empresa {
+        width: 940px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #E1EDF2;
+    }
+    
+    .descricao-empresa__content {
+        background-color: white;
+        border: 1px solid lightgrey;
+        padding: 15px;
+        margin: 20px;
+    }
+    
+    .descricao-empresa__text {
         color: #3D3D3D;
-        width: 940px;/*diminuir a largura do conteúdo da pagina*/
-        margin-left: auto;
-        margin-right: auto;
-}
-
-.titulo{
-        background-color: #E1EDF2;
-        padding: 10px; 
-        font-size: 32px;
-        background-color: #E1EDF2;
-}
-
-.subtitulo{
-        border-bottom: 2px solid black;
-}
-
-figure {
+        font-size: 16px;
+        line-height: 1.6;
+        margin-bottom: 15px;
+    }
+    
+    .descricao-empresa__matriz-musicdot {
         text-align: center;
+        margin: 20px auto;
+        padding: 10px;
         background-color: whitesmoke;
         border: 1px solid lightgrey;
-        margin: 30px;
-        padding: 15px;
     }
-
-figcaption {
+    
+    .descricao-empresa__matriz-musicdot img {
+        max-width: 100%;
+    }
+    
+    /* Estilos para a seção "historia-empresa" */
+    .historia-empresa__title {
+        font-size: 28px;
+        margin-top: 40px;
+        color: #3D3D3D;
+    }
+    
+    .historia-empresa__text {
+        font-size: 16px;
+        line-height: 1.6;
+        color: #3D3D3D;
+        margin-top: 15px;
+    }
+    
+    .familia-tupfeln img {
+        max-width: 100%;
+        display: block;
+        margin: 20px auto;
+    }
+    
+    /* Estilos para a seção "diferenciais-empresa" */
+    .diferenciais-empresa__subtitulo {
+        font-size: 24px;
+        margin-top: 40px;
+        color: #3D3D3D;
+    }
+    
+    .diferenciais-empresa__list {
+        list-style: disc;
+        margin-left: 20px;
+        font-size: 16px;
+        color: #3D3D3D;
+        line-height: 1.6;
+        margin-top: 15px;
+    }
+    
+    /* Estilos para o footer */
+    .footer {
+        background-color: #E1EDF2;
+        padding: 20px 0;
+        text-align: center;
+    }
+    
+    .footer-title {
+        font-size: 24px;
+        color: #3D3D3D;
+    }
+    
+    .footer-correspondecia__title,
+    .footer-telefone__title {
+        font-size: 20px;
+        margin-top: 20px;
+        color: #3D3D3D;
+    }
+    
+    .footer-correspondecia__time,
+    .footer-telefone__time {
+        font-size: 14px;
+        color: #777777;
+    }
+    
+    .footer-correspondecia__address {
+        font-size: 16px;
+        color: #3D3D3D;
+        line-height: 1.6;
         margin-top: 10px;
     }
-.matriz-musicdot {
-        width: 550px;
-        margin-left: auto;
-        margin-right: auto;
-        }
- .familia-tupfeln {
-        width: 275px;
-        float: right;
-        }
-figure img {
-        width: 100%;
-   }        
-        
+    
+    .footer-telefone dl {
+        font-size: 16px;
+        color: #3D3D3D;
+        line-height: 1.6;
+        margin-top: 10px;
+    }
+    
+    .footer-telefone dt {
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    
+    .footer-telefone dd {
+        margin-left: 20px;
+    }
+    
