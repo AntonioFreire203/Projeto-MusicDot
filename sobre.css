@@ -70,7 +70,7 @@
     
     /* Estilos para o footer */
     .contato__subtitulo {
-        display: inline;
+        display: flex;
         }
         .contato__secao {
          display: inline-block;
@@ -88,7 +88,7 @@
         }
         .contato__info-titulo,
         .contato__info-descricao {
-        display: inline;
+        display: flex;
         }
         .contato__info-descricao {
         margin-left: 10px;
