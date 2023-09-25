@@ -69,51 +69,27 @@
     }
     
     /* Estilos para o footer */
-    .footer {
-        background-color: #E1EDF2;
-        padding: 20px 0;
-        text-align: center;
-    }
-    
-    .footer-title {
-        font-size: 24px;
-        color: #3D3D3D;
-    }
-    
-    .footer-correspondecia__title,
-    .footer-telefone__title {
-        font-size: 20px;
-        margin-top: 20px;
-        color: #3D3D3D;
-    }
-    
-    .footer-correspondecia__time,
-    .footer-telefone__time {
-        font-size: 14px;
-        color: #777777;
-    }
-    
-    .footer-correspondecia__address {
-        font-size: 16px;
-        color: #3D3D3D;
-        line-height: 1.6;
-        margin-top: 10px;
-    }
-    
-    .footer-telefone dl {
-        font-size: 16px;
-        color: #3D3D3D;
-        line-height: 1.6;
-        margin-top: 10px;
+    .contato__subtitulo {
         display: inline;
-    }
-    
-    .footer-telefone dt {
-        font-weight: bold;
-        margin-top: 10px;
-    }
-    
-    .footer-telefone dd {
-        margin-left: 20px;
-    }
-    
+        }
+        .contato__secao {
+         display: inline-block;
+         vertical-align: top;
+         margin-left: 16px;
+        }
+        
+        .contato__secao--telefone {
+         margin-left: 32px;
+        }
+        
+        .contato__info {
+        margin: 16px 0 24px;
+        padding-left: 32px;
+        }
+        .contato__info-titulo,
+        .contato__info-descricao {
+        display: inline;
+        }
+        .contato__info-descricao {
+        margin-left: 10px;
+        }
