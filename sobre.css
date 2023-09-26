@@ -31,7 +31,9 @@ color: #3D3D3D;
         margin-bottom: 15px;
     }
     
-    .descricao-empresa__matriz-musicdot {
+    .descricao-empresa__img{
+        max-width: 100%;
+        box-sizing: border;
         text-align: center;
         margin: 20px auto;
         padding: 10px;
@@ -39,8 +41,9 @@ color: #3D3D3D;
         border: 1px solid lightgrey;
     }
     
-    .descricao-empresa__matriz-musicdot img {
-        max-width: 100%;
+    
+    .descricao-empresa__img-ficaption{
+        margin-top: 10px;
     }
     
     /* Estilos para a seção "historia-empresa" */
