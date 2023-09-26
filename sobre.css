@@ -1,4 +1,15 @@
-/* Estilos para a seção "descricao-empresa" */
+body{
+
+width: 80%;
+max-width: 940px;
+margin-left: auto;
+margin-right: auto;
+font-size: 16px;
+line-height: 1.5;
+font-family: "Helvetica", "Lucida Grande", sans-serif;
+color: #3D3D3D;
+}
+
 .descricao-empresa {
         width: 940px;
         margin: 0 auto;
