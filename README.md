@@ -4,8 +4,7 @@ Este projeto foi desenvolvido como parte do desafio proposto pela Alura para a p
 
 ## Descrição do Projeto
 
-Musidot é uma plataforma fictícia para músicos compartilharem e descobrirem novas músicas. O projeto se concentra no desenvolvimento da interface do usuário (UI) e no layout da aplicação.
-
+Musidot é uma Escola de música online.
 ## Layout do Desafio
 
 <img src ="/home/antonio/Área de trabalho/projeto-musicDot/challenge/MUSICDOTMOCKUP.png" >
@@ -29,6 +28,10 @@ Se você deseja contribuir para o desenvolvimento do projeto Musidot, siga estas
 5. Commit suas alterações: `git commit -m 'Adiciona minha feature'`.
 6. Faça um push para a branch: `git push origin minha-feature`.
 7. Crie um pull request neste repositório, explicando suas alterações e detalhes relevantes.
+
+##Site Original
+
+<link src = "https://cursos.musicdot.com.br/loginForm">
 
 
 
