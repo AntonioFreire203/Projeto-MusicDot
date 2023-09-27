@@ -7,7 +7,8 @@ Este projeto foi desenvolvido como parte do desafio proposto pela Alura para a p
 Musidot é uma Escola de música online.
 ## Layout do Desafio
 
-<img src ="/home/antonio/Área de trabalho/projeto-musicDot/challenge/MUSICDOTMOCKUP.png" >
+<img src ="challenge/MUSICDOTMOCKUP.png" >
+
 ## Tecnologias Utilizadas
 
 Neste projeto, foram utilizadas as seguintes tecnologias e ferramentas:
@@ -29,7 +30,7 @@ Se você deseja contribuir para o desenvolvimento do projeto Musidot, siga estas
 6. Faça um push para a branch: `git push origin minha-feature`.
 7. Crie um pull request neste repositório, explicando suas alterações e detalhes relevantes.
 
-##Site Original
+## Site Original
 
 <link src = "https://cursos.musicdot.com.br/loginForm">
 
