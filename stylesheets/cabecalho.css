@@ -28,6 +28,8 @@
     padding: 1.86em 1.42em;
 }
 
+/** ------ Media Query **/
+
 @media(min-width:640px){
     .cabecalho{
         padding: 0 5%;
